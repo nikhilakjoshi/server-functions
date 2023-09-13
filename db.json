@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "title": "Hello World",
+      "id": 1
+    },
+    {
+      "title": "No Javascript",
+      "id": 2
+    },
+    {
+      "title": "Works without it",
+      "id": 3
+    }
+  ]
+}
